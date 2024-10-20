@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mostafa Salarvandian!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" /> Hi, I'm Mostafa Salarvandian!
 I'm an AI and Data Science enthusiast with a passion for turning data into actionable insights. I enjoy solving complex problems using Machine Learning, Deep Learning, and cutting-edge algorithms. In addition, I'm constantly learning and exploring new tools and frameworks in the field of AI to stay ahead of the curve.
 
 - 🔭 I’m currently working on **AI-based models for data science**
@@ -9,7 +9,7 @@ I'm an AI and Data Science enthusiast with a passion for turning data into actio
 
 ---
 
-## 🧑‍💻 Skills and Technologies:
+## <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> Skills and Technologies:
 - **Languages**: Python, Laravel, Html, Css, Sass, bootstrap, TailwindCss
 - **Libraries & Tools**: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
 - **AI & ML**: Machine Learning, Deep Learning, NLP, image processing, Reinforcement Learning
