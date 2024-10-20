@@ -10,42 +10,18 @@ I'm an AI and Data Science enthusiast with a passion for turning data into actio
 ---
 
 ## 🧑‍💻 Skills and Technologies:
-- **Languages**: Python
+- **Languages**: Python, Laravel, Html, Css, Sass, bootstrap, TailwindCss
 - **Libraries & Tools**: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
-- **AI & ML**: Machine Learning, Deep Learning, NLP, Reinforcement Learning
-- **Data Science**: Data Analysis, Data Visualization, Big Data, Statistics
+- **AI & ML**: Machine Learning, Deep Learning, NLP, image processing, Reinforcement Learning
+- **Data Science**: Data Analysis, Data Visualization, Statistics
 
 ---
 
 ## 📊 GitHub Stats:
-![Salar's GitHub stats](https://github-readme-stats.vercel.app/api?username=salarvandian&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salarvandian&layout=compact&theme=radical)
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-ko&label=Profile%20views&color=C70039&style=flat" alt="AliNikseresht" /> </p>
-<h1 align="center">Hi 🤩 Welcome To My World , I'm Amirreza Kokabi</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
-
-<h3 align="left">✅ Steve Jobs :</h3>
-<h4 align="center">"“Don't let the noise of others' opinions drown out your own inner voice.”"
-</h4> 
-
-<p align="center"><img width="400px" height="300px" src="https://user-images.githubusercontent.com/120955025/236538649-3ec87fd6-5799-4d4d-b1d1-5ba817b11de1.gif"/></p>
-
-
-
-- 🌱 I’m currently learning **Sass, Html5, Css3**
-
-- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/amir-ko)
-
-- 💬 Ask me about **Sass, Html5, Css3**
-
-- 📫 How to reach me **amirreza.ko71@gmail.com**
-
-- 🏙  MY **3D VERSION** OF MY GITHUB IN 2023 : [Watch Now](https://honzaap.github.io/GithubCity/?name=amir-ko&year=2023)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -77,12 +53,6 @@ I'm an AI and Data Science enthusiast with a passion for turning data into actio
 </div>
 
 
-<p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=amir-ko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-
 
 
 <p align="center">
@@ -105,5 +75,5 @@ I'm an AI and Data Science enthusiast with a passion for turning data into actio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amirreza-kokabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amirreza-kokabi" height="30" width="40" /></a>
-<a href="https://instagram.com/amirrezakokabiweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirrezakokabiweb" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mostafasalarvandian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafasalarvandian" height="30" width="40" /></a>
+<a href="https://instagram.com/mostafa.salarvandian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mostafa.salarvandian" height="30" width="40" /></a>
