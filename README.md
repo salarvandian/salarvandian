@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Salar Vandian!
+# 👋 Hi, I'm Salar Salarvandian!
 I'm an AI and Data Science enthusiast with a passion for turning data into actionable insights. I enjoy solving complex problems using Machine Learning, Deep Learning, and cutting-edge algorithms. In addition, I'm constantly learning and exploring new tools and frameworks in the field of AI to stay ahead of the curve.
 
 - 🔭 I’m currently working on **AI-based models for data analysis**
