@@ -10,9 +10,9 @@ I'm an AI and Data Science enthusiast with a passion for turning data into actio
 ---
 
 ## <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> Skills and Technologies:
-- **Languages**: Python, Laravel, Html, Css, Sass, bootstrap, TailwindCss
+- **Languages**: Python, Laravel, Html, Css, Sass, Bootstrap, TailwindCss
 - **Libraries & Tools**: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
-- **AI & ML**: Machine Learning, Deep Learning, NLP, image processing, Reinforcement Learning
+- **AI & ML**: Machine Learning, Deep Learning, NLP, Image Processing, Reinforcement Learning
 - **Data Science**: Data Analysis, Data Visualization, Statistics
 
 ---
