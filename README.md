@@ -55,20 +55,7 @@ I'm an AI and Data Science enthusiast with a passion for turning data into actio
 
 
 
-<p align="center">
 
-<a href="https://github.com/amir-ko?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=amir-ko&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-<a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceGoblinTech&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
-
-</p>
-
-
-
-
-
-<p align="center">
-<a href="https://gist.github.com/amir-ko"><img src="https://profile-counter.glitch.me/{amir-ko/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
-</p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
