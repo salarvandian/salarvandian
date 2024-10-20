@@ -18,7 +18,11 @@ I'm an AI and Data Science enthusiast with a passion for turning data into actio
 ---
 
 ## 📊 GitHub Stats:
+<h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.gif" alt="🛸" width="60" > &nbsp; Activity Graph </h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=salarvandian&theme=one-dark" alt="salarvandian Activities"/>
 
+<br/>
+<br/>
 
 
 
