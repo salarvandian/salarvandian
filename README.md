@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Mostafa Salarvandian!
 I'm an AI and Data Science enthusiast with a passion for turning data into actionable insights. I enjoy solving complex problems using Machine Learning, Deep Learning, and cutting-edge algorithms. In addition, I'm constantly learning and exploring new tools and frameworks in the field of AI to stay ahead of the curve.
 
-- 🔭 I’m currently working on **AI-based models for data analysis**
-- 🌱 I’m currently learning **Natural Language Processing (NLP)** and **Reinforcement Learning**
-- 👯 I’m looking to collaborate on **AI-driven projects** and **open-source contributions**
-- 💬 Ask me about **Machine Learning**, **Deep Learning**, or **Data Science**
+- 🔭 I’m currently working on **AI-based models for data science**
+- 🌱 I’m currently learning **Natural Language Processing (NLP), image processing, and reinforcement learning**
+- 👯 I’m looking to collaborate on **AI-driven projects and contribute to data science projects**
+- 💬 Ask me about **Machine Learning**, **Deep Learning**, **Deep Learning**, **Image Processing**, **Natural Language Processing**, or **Data Science**
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mostafasalarvandian) | [Email](mailto:msalarvand1990@gmail.com)
 
 ---
