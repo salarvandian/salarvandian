@@ -21,6 +21,9 @@ I'm an AI and Data Science enthusiast with a passion for turning data into actio
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=salarvandian&theme=one-dark" alt="salarvandian Activities"/>
 
 <br/>
+<div id="header" align="center" >
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salarvandian&theme=onedark" alt="Salarvandian Trophies" /></a> </p>
+</div>
 <br/>
 
 
